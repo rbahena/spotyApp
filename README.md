@@ -1,0 +1,2 @@
+# spotyApp
+Curso angular
